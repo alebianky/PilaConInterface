@@ -1,0 +1,16 @@
+D:\Curso C#\PilaConInterface\bin\Debug\net5.0\PilaConInterface.exe
+D:\Curso C#\PilaConInterface\bin\Debug\net5.0\PilaConInterface.deps.json
+D:\Curso C#\PilaConInterface\bin\Debug\net5.0\PilaConInterface.runtimeconfig.json
+D:\Curso C#\PilaConInterface\bin\Debug\net5.0\PilaConInterface.runtimeconfig.dev.json
+D:\Curso C#\PilaConInterface\bin\Debug\net5.0\PilaConInterface.dll
+D:\Curso C#\PilaConInterface\bin\Debug\net5.0\ref\PilaConInterface.dll
+D:\Curso C#\PilaConInterface\bin\Debug\net5.0\PilaConInterface.pdb
+D:\Curso C#\PilaConInterface\obj\Debug\net5.0\PilaConInterface.csprojAssemblyReference.cache
+D:\Curso C#\PilaConInterface\obj\Debug\net5.0\PilaConInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso C#\PilaConInterface\obj\Debug\net5.0\PilaConInterface.AssemblyInfoInputs.cache
+D:\Curso C#\PilaConInterface\obj\Debug\net5.0\PilaConInterface.AssemblyInfo.cs
+D:\Curso C#\PilaConInterface\obj\Debug\net5.0\PilaConInterface.csproj.CoreCompileInputs.cache
+D:\Curso C#\PilaConInterface\obj\Debug\net5.0\PilaConInterface.dll
+D:\Curso C#\PilaConInterface\obj\Debug\net5.0\ref\PilaConInterface.dll
+D:\Curso C#\PilaConInterface\obj\Debug\net5.0\PilaConInterface.pdb
+D:\Curso C#\PilaConInterface\obj\Debug\net5.0\PilaConInterface.genruntimeconfig.cache
